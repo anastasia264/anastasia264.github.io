@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<INSTRUMENTS>
+    <INSTRUMENT>
+        <NAME>Gibson Les Paul</NAME>
+        <TYPE>Electric Guitar</TYPE>
+        <BRAND>Gibson</BRAND>
+        <YEAR>1952</YEAR>
+        <PRICE>2000</PRICE>
+    </INSTRUMENT>
+    <INSTRUMENT>
+        <NAME>Fender Stratocaster</NAME>
+        <TYPE>Electric Guitar</TYPE>
+        <BRAND>Fender</BRAND>
+        <YEAR>1954</YEAR>
+        <PRICE>1800</PRICE>
+    </INSTRUMENT>
+    <INSTRUMENT>
+        <NAME>Yamaha C7 Grand Piano</NAME>
+        <TYPE>Grand Piano</TYPE>
+        <BRAND>Yamaha</BRAND>
+        <YEAR>1982</YEAR>
+        <PRICE>12000</PRICE>
+    </INSTRUMENT>
+    <INSTRUMENT>
+        <NAME>Stradivarius Violin</NAME>
+        <TYPE>Violin</TYPE>
+        <BRAND>Stradivarius</BRAND>
+        <YEAR>1715</YEAR>
+        <PRICE>3500000</PRICE>
+    </INSTRUMENT>
+</INSTRUMENTS>
